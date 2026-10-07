@@ -93,6 +93,7 @@
 			<Item Name="Valve Timer FGV.ctl" Type="VI" URL="../controls/Valve Timer FGV.ctl"/>
 		</Item>
 		<Item Name="Epoxy_Main.vi" Type="VI" URL="../Epoxy_Main.vi"/>
+		<Item Name="Global 2.vi" Type="VI" URL="../../../../OneDrive - GE Appliances/Documents/Global 2.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="instr.lib" Type="Folder">
 				<Item Name="Agilent 34970.lvlib" Type="Library" URL="/&lt;instrlib&gt;/Agilent 34970/Agilent 34970.lvlib"/>
